@@ -1,2 +1,2 @@
-# nowead
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowead&show_icons=true&theme=dracula)
+![](https://github.com/sayoonnn/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/sayoonnn/github-stats-transparent/blob/output/generated/languages.svg)
