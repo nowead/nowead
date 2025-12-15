@@ -4,4 +4,3 @@
 
 [![GitHub Stats](https://nowead-projects.vercel.app/api?username=nowead&bg_color=00000000&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://nowead-projects.vercel.app/api/top-langs/?username=nowead&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nowead)](https://git.io/streak-stats)
